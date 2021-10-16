@@ -36,7 +36,7 @@ class _GViewState extends State<GView> {
 
   @override
   Widget build(BuildContext context) {
-    return Scrollbar(
+    return SingleChildScrollView(
           child: Column(
         
         children: [

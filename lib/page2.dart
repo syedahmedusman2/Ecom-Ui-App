@@ -47,7 +47,9 @@ class _PagState extends State<Pag> {
           
           
           
-        ],))
+        ],
+        )
+        )
       ],
       
     );
